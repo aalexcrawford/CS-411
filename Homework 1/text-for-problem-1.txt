@@ -1,0 +1,20 @@
+The text to analyze
+=========================
+
+What is Organizational Intelligence
+“There is nothing more difficult to take in hand, more perilous to conduct, or more uncertain in its success, than to take the lead in the introduction of a new order of things. For the reformer has enemies in all those who profit by the old order, and only lukewarm defenders in all those who would profit by the new order, this Luke warmness arising partly from fear of their adversaries and partly from the incredulity of mankind, who do not truly believe in anything new until they have had actual experience of it.”—Niccolo Machiavelli (1513 AD)
+Many of yesterday’s giant, highly successful organizations such as DEC, NEC, Motorola, AT&T and many others do not exist anymore or are fading away at a steady pace. The common thread of problems with all of them are
+As companies become successful, they are forced to focus on operational excellence leading to a predominantly operational culture. They confuse operational excellence with entrepreneurial excellence and it becomes nearly impossible for them to return to the innovative and strategic cultures of the past. The organizations lose track of who they are, how to effectively communicate among all the stakeholders and build a culture that continually monitor and tune the strategy to the organizational traits that made them successful to begin with
+This theme is also the basic premise of the acclaimed book Innovators’ Dilemma where the author successfully argues that the very reason that make the organizations successful, are gradually forgotten and become the reasons of their eventual failure. The last few decades have seen the steady increase in the recognition that Knowledge about the organization, internal and external is one of the most valuable assets of any organization, but only a small part of the leadership and the managers believe and are sure of how to use this Organizational Knowledge.
+This brings us to questions such as 
+What is Organizational Knowledge, aka Organizational Intelligence or Organizational Intelligent Quotient (OIQ), analogous to IQ of an individual? 
+How does an organization measure, monitor and tune the collective intelligence (OIQ) of the overall organization?
+Organizational Intelligence or the OIQ is the capacity of an organization to create knowledge and use it to strategically adapt to its environment or marketplace. It is similar to IQ, but framed at an organizational level. Some researchers in the area of Organizational Intelligence have attempted to create a framework which provides organization a set of metrics which they can use to continuously measure, monitor and use these metrics to expand their overall organizational knowledge base and take strategic actions to keep the organization on the path of success. One of these frameworks is shown below
+Without going into the details of this framework, a few of the elements stand up prominently. An organization,
+needs an Organizational Value Creation Culture
+needs to understand what creates value for the organization
+needs to create alignment among the stakeholder, both external and internal
+needs a culture of open communication and information flow
+needs outside-in (customer first) strategy
+needs disciplined, fact-based decision making
+An important follow-up question is: how does an organization measure itself and all its constituent stakeholders on these metrics in concrete numbers (not just a set of qualitative statements or wish list) and create a set of actionable facts to drive its value creation strategy?
