@@ -3,6 +3,7 @@ __pycache__
 Resources/
 Jupyter Notebook/
 Refreshers/
+.ipynb_checkpoints
 
 # File Types
 *.DS_Store
