@@ -1,0 +1,8 @@
+# Directories
+__pycache__
+Resources/
+Jupyter Notebook/
+Refreshers/
+
+# File Types
+*.DS_Store
